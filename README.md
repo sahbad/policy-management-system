@@ -1,9 +1,11 @@
 # Policy Management System
 
-**Course:** BAN 6420 – Programming in R & Python
-**Module:** 3 – Milestone Assignment 1
+**Course:** BAN 6420 – Programming in R & Python (Module 3 – Milestone Assignment)
+
 **Author:** Adebowale Saheed Badru
+
 **Institution/Program:** Nexford University/Master of Science, Data Analytics
+
 **Date:** October 2025
 
 ---
